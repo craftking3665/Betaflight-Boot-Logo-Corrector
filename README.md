@@ -1,3 +1,3 @@
 # Betaflight-Boot-Logo-Corrector
-Having trouble making your Betaflight boot image work? Well this corrects all the colors to make it work instantly.
+Having trouble getting your Betaflight boot image work? Well this corrects all the colors to get it to work instantly.
 Happy flyin'!
